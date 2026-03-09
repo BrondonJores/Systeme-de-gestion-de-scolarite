@@ -1,7 +1,7 @@
 # Systeme de gestion de scolarite - ProfEtud
 
 Application web PHP/MySQL pour la gestion academique avec deux espaces:
-- espace etudiant (consultation des notes, depot de requetes et devoirs),
+- espace etudiant (consultation des notes, depôt de requetes et devoirs),
 - espace enseignant (consultation dossiers et attribution/modification/suppression des notes).
 
 ## Apercu fonctionnel
